@@ -10,6 +10,7 @@ Jarvis is a Python-based voice assistant that can perform various tasks such as 
 - 📰 **Latest News**: Fetches top headlines using NewsAPI.
 - 🤖 **Smart Replies**: Uses OpenAI's GPT-3.5 to answer general queries.
 - 🗣️ **Text-to-Speech**: Uses `gTTS` and `pygame` for realistic audio responses.
+****Note:
 
-
-
+update the api key in client.py inorder to unlock GPT related operations 
+(write ur own api key at the empty field)
