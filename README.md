@@ -1,6 +1,6 @@
 # 🧠 Jarvis - Your Personal Voice Assistant
 
-Jarvis is a Python-based voice assistant that can perform various tasks such as opening websites, playing music, reading news, and responding to queries using OpenAI's GPT model — all triggered by voice commands.
+Jarvis is a Python-based voice assistant that can perform various tasks such as opening websites, playing music, reading news, and responding to queries - all triggered by voice commands.
 
 ## 🚀 Features
 
